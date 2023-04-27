@@ -15,5 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
  - 整个 doc 文件夹和 sphinx 文件系统, 等未来有机会再重新添加
+ - 删除了原始的 Makefile，后面重新写
 
 [unreleased]: https://github.com/Janzulene/cookiecutter-data-science...HEAD
