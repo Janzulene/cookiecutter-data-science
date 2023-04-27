@@ -2,6 +2,10 @@
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
+运行命令：
+```bash
+cookiecutter git@github.com:Janzulene/cookiecutter-data-science.git
+```
 
 #### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
 
